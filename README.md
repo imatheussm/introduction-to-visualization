@@ -1,4 +1,4 @@
-# `introduction-to-visualization`
+# Introduction to Information Visualization
 
 This repository stores links and files that served as resolutions to the proposed assignments in the discipline termed Introduction to Information Visualization, lectured by Prof. Bianchi S. Meiguins, Ph.D.
 
